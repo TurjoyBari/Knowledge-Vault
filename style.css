@@ -22,7 +22,7 @@
     font-size: 16px;
 }
 
-header , .hero-conteiner{
+.maxwith{
     max-width: 1350px;
     margin: 0 auto;
 }
@@ -141,4 +141,77 @@ header , .hero-conteiner{
     margin-left: 10px;
     /* font-size: 16px;
     font-weight: 600; */
+}
+
+
+
+/* notes */
+
+
+.notes-container{
+    text-align: center;
+}
+.notes-container h1{
+    font-size: 48px;
+    font-weight: 700;
+    color: #001931;
+    margin-top: 80px;
+    margin-bottom: 16px;
+}
+
+.notes-container p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    margin-bottom: 44px;
+}
+
+.img-back{
+  width: 60px;
+  height: 60px;
+  background: red;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+ 
+
+
+.card-img{
+  width: 32px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.nots-card-info {
+    padding: 24px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    text-align: center;
+    box-shadow: 0px 0px 8px 0px #0000001e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 120px;
+    
+}
+
+.nots-card-info h2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #001931;
+    
+}
+
+
+
+.notes-card{
+    display: flex;
+    gap: 24px;
 }
