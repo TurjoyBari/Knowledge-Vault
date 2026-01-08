@@ -297,3 +297,58 @@
 .clearly-btn{
     margin-bottom: 16px;
 }
+
+
+
+/* footer  */
+
+.kv-footer{
+    background-color: #001931;
+     padding-bottom: 30px;
+}
+
+.Social p{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.img-back-icon{
+  width: 25px;
+  height: 25px;
+  background:white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.social-icon{
+    display: flex;
+    gap: 6px;
+}
+
+.footer-contant{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+.hr{
+    text-align: center;
+    color: #FAFAFA;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.hr p{
+    margin-top: 30px;
+   
+}
+
+hr{
+    background-color: #627382;
+}
