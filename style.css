@@ -95,6 +95,10 @@
     border-radius: 1000px;
 }
 
+.h-btn:hover{
+    background-color: #0019319f;
+}
+
 .hero-btn1:hover{
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
@@ -226,6 +230,10 @@
     gap: 16px;
     margin-bottom: 120px;
     
+}
+
+.nots-card-info:hover{
+    background-color: #30b8693f;
 }
 
 .nots-card-info h2{
